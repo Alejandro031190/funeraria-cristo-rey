@@ -1,0 +1,38 @@
+{
+    "contratos": [
+        {
+            "id": 1,
+            "nombre": "ALEJANDRO CARRION",
+            "cedula": "1206080382",
+            "direccion": "CALLE 3 Y AV 5",
+            "telefono": "04120243479",
+            "plan": "PLAN FAMILIAR 10",
+            "mensualidad": 15.0,
+            "fecha_inicio": "2025-11-02",
+            "estado": "Activo",
+            "afiliados": [
+                {
+                    "nombre": "DANAE",
+                    "apellido": "CARRION",
+                    "parentesco": "HIJA",
+                    "telefono": "123456789"
+                },
+                {
+                    "nombre": "ANGIE",
+                    "apellido": "SANCHEZ",
+                    "parentesco": "ESPOSA",
+                    "telefono": "987654321"
+                }
+            ]
+        }
+    ],
+    "abonos": [
+        {
+            "id": 1,
+            "contrato_id": 1,
+            "fecha": "2025-11-02 14:12:55",
+            "monto": 55.0,
+            "observacion": "ABONO MES CORRIENTE"
+        }
+    ]
+}

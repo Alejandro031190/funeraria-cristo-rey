@@ -1,0 +1,30 @@
+{
+    "contratos": [
+        {
+            "id": 1,
+            "nombre": "alejandro carrion",
+            "cedula": "1206080382",
+            "direccion": "calle 3 y avenida 4",
+            "telefono": "04120243479",
+            "plan": "plan familiar 10",
+            "mensualidad": 15.0,
+            "fecha_inicio": "2025-11-02",
+            "estado": "Activo",
+            "afiliados": [
+                {
+                    "nombre": "carlos",
+                    "apellido": "guerrero",
+                    "parentesco": "primo",
+                    "telefono": "14445824"
+                },
+                {
+                    "nombre": "jose",
+                    "apellido": "madero",
+                    "parentesco": "hija",
+                    "telefono": "4144785896"
+                }
+            ]
+        }
+    ],
+    "abonos": []
+}
